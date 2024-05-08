@@ -1,6 +1,8 @@
 # pipi
 cheat para star rail 2.1 atualizado
 
+Baixe em [Releases](https://github.com/termuxcay/pipi/releases/tag/pipi)
+
 para conhecer mais sobre acesse:
 https://astexservices.com.br/apps/star
 
